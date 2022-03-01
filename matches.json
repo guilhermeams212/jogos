@@ -12,7 +12,7 @@
   }
 "mandante"{
       "nome": "sao paulo",
-      "nivel": 4,5,
+      "nivel": 4.5,
       "imagem": "foto"
   }
   }
