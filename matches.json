@@ -3,17 +3,17 @@
     "descrição": "eliminatorias copa do mundo 2022",
     "local"{
        "nome": "alizz",
-      "imagem": "foto"
+      "imagem": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fjovempan.com.br%2Fesportes%2Ffutebol%2Festreia-do-gramado-sintetico-do-allianz-parque-sera-em-evento-religioso.html&psig=AOvVaw1SGA57U6ZdKZwc6unaHWVD&ust=1646191019678000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPiAkcv5o_YCFQAAAAAdAAAAABAP"
   }
    "mandante"{
       "nome": "palmeiras",
       "nivel": 5,
-      "imagem": "foto"
+      "imagem": "https://www.google.com/url?sa=i&url=https%3A%2F%2Flogodownload.org%2Fpalmeiras-logo-escudo%2F&psig=AOvVaw2PXSk0QKFCoOiVLCKQ2Y8i&ust=1646191115728000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPCn2P75o_YCFQAAAAAdAAAAABAD"
   }
 "mandante"{
       "nome": "sao paulo",
       "nivel": 4.5,
-      "imagem": "foto"
+      "imagem": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FFicheiro%3ABrasao_do_Sao_Paulo_Futebol_Clube.svg&psig=AOvVaw255zwr0qKh_pYYjDY9v6DC&ust=1646191153531000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCODOjYr6o_YCFQAAAAAdAAAAABAD"
   }
   }
 ]
