@@ -1,1 +1,19 @@
-
+[
+  {
+    "descrição": "eliminatorias copa do mundo 2022",
+    "local"{
+       "nome": "alizz",
+      "imagem": "foto"
+  }
+   "mandante"{
+      "nome": "palmeiras",
+      "nivel": 5,
+      "imagem": "foto"
+  }
+"mandante"{
+      "nome": "sao paulo",
+      "nivel": 4,5,
+      "imagem": "foto"
+  }
+  }
+]
